@@ -1,0 +1,6 @@
+.containerMain {
+  max-width: 1200px;
+}
+input:focus {
+  outline: none;
+}
